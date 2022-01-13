@@ -8,8 +8,7 @@ public class AutomationTopics {
         System.out.println("Java Features");
         System.out.println("Naming Conventions");
         System.out.println("Java Features");
-        System.out.println("Naming Conventions");
-        System.out.println("Github Is Collabration Platform");
+
 
 
 
